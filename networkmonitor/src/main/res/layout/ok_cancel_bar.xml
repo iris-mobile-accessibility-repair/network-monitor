@@ -40,6 +40,7 @@ limitations under the License.
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="onCancel"
+            android:textColor="#DC0000"
             android:text="@android:string/cancel" />
 
         <Button
@@ -49,6 +50,7 @@ limitations under the License.
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="onOk"
+            android:textColor="#DC0000"
             android:text="@android:string/ok" />
     </LinearLayout>
 </layout>
