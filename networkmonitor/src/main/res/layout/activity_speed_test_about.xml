@@ -65,6 +65,7 @@ limitations under the License.
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="okClicked"
+            android:textColor="#A00000"
             android:text="@string/speed_test_close" />
 
     </LinearLayout>
